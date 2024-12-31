@@ -1,0 +1,35 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+@font-face{
+    font-family: font1;
+    src:url("./Assets/fonts/BoxTube Labs - QB One Medium.ttf")
+}
+@font-face{
+    font-family: font2;
+    src:url("./Assets/fonts/Gilroy-Regular.ttf");
+}
+@font-face{
+    font-family: font3;
+    src:url("./Assets/fonts/Klapt-Bold.otf");
+}
+
+#container::-webkit-scrollbar{
+    display: none;
+}
+#container .move{
+    animation: move 10s linear infinite;
+}
+
+::-webkit-scrollbar{
+    display: none;
+}
+@keyframes move{
+    from {
+        transform: translateX(0);
+    }
+    to {
+        transform: translateX(-100%);
+    }
+}
+
