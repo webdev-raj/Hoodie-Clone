@@ -4,6 +4,8 @@
   "description": "",
   "main": "script.js",
   "scripts": {
+    "build": "vite build",
+    "serve": "vite preview",
     "tom": "vite"
   },
   "keywords": [],
