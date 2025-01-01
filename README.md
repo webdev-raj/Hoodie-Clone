@@ -42,7 +42,7 @@ This project is a responsive website created from a PSD design using **HTML**, *
 
 2. Navigate to the project directory:
    ```bash
-  cd Hoodie_Clone
+   cd Hoodie_Clone
    ```
 
 3. Open the `index.html` file in your browser to view the project.
