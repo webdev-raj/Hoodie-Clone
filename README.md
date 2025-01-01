@@ -29,7 +29,7 @@ This project is a responsive website created from a PSD design using **HTML**, *
 ## Project Links
 
 - **PSD Design:** [View the PSD](https://cdn.dribbble.com/userupload/14114991/file/original-8b11a58b135156a7c7cd62945339e857.png?resize=1200x5181&vertical=center)
-- **Live Preview:** [Visit the Live Website](https://hoodie-clone-rfy5204dz-webdev-rajs-projects.vercel.app/)
+- **Live Preview:** [Visit the Live Website](https://hoodie-clone-webdev-rajs-projects.vercel.app/)
 
 ---
 
